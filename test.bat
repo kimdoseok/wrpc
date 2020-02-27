@@ -1,0 +1,1 @@
+curl localhost:8080/hhny/pos.b -d p=fa0edcb85536f334375f0c80491dd0e4 -d k=ZZZ2035
