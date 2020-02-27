@@ -11,8 +11,7 @@ import (
 
 const (
 	DB_USER   = "doseok"
-	DB_PASSWD = "7795004"
-	//DB_HOST   = "homeny.madang.com"
+	DB_PASSWD = "xxxxxxxx"
 	DB_HOST = "172.16.0.235"
 	DB_NAME = "pypos"
 )
